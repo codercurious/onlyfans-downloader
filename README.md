@@ -1,6 +1,6 @@
 # Free Onlyfans Downloader
 
-This app helps you to download videos and photos from your [onlyfans](https://onlyfans.com) account for free.
+[Onlyfans video downloader](https://onlyfansdownloader.co/) helps you to download videos and photos from your [onlyfans](https://onlyfans.com) account for free.
 
 ## Features
 1. Download from onlyfans posts
@@ -11,6 +11,7 @@ You can download media posted by any onlyfans profiles that you have subscribed 
 You can download media sent to your inbox from any onlyfans model by providing link to the chat
 
 ## Requirements
+
 To download media from onlyfans using this app you will need to install the chrome extension or provide cookies and proxy
 
 ## How to download using the extension
