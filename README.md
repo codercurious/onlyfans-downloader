@@ -26,10 +26,11 @@ To download media from onlyfans using this app you will need to install the chro
 5. Make sure the extension appears in the extensions page, then come back and refresh the onlyfans downloader page
 
 ## How to use the chrome extension in incognito mode
-1. Click on the chrome menu at the top right corner (three dots).
-2. Go to `More tools › Extensions`.
-3. Find the OnlyfansDownloader extension and click on `Details` button.
-4. Enable the option `Allow in incognito`
+
+1. Click on the chrome menu at the top right corner (three dots).
+2. Go to `More tools › Extensions`.
+3. Find the OnlyfansDownloader extension and click on `Details` button.
+4. Enable the option `Allow in incognito`
 
 ## How to download using cookies and proxy url (No longer supported)
 
