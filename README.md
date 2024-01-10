@@ -4,7 +4,7 @@
 
 ## Features
 ### Download from onlyfans posts
-You can download content from any onlyfans post simply by entering onlyfans post link 
+You can download content from any onlyfans post simply by entering onlyfans post link. Click on 3 dots button on top right of any onlyfans post and click on `Copy link to post` to get the link of the post. 
 ### Download media from onlyfans profile
 You can download media posted by any onlyfans profiles that you have subscribed to by providing link to the profile
 ### Download media from onlyfans messages or chat
