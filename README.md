@@ -25,13 +25,19 @@ To download media from onlyfans using this app you will need to install the chro
 4. Drag and drop the unzipped extension folder to the page. Alternatively, you can click on 'Load unpacked extension' button and select the unzipped extension folder to install
 5. Make sure the extension appears in the extensions page, then come back and refresh the onlyfans downloader page
 
-## How to download using cookies and proxy url
+## How to use the chrome extension in incognito mode
+1. Click on the chrome menu at the top right corner (three dots).
+2. Go to `More tools › Extensions`.
+3. Find the OnlyfansDownloader extension and click on `Details` button.
+4. Enable the option `Allow in incognito`
+
+## How to download using cookies and proxy url (No longer supported)
 
 1. Choose download method as 'Proxy and cookies'
 2. Enter proxy url to use when extracting download urls from onlyfans. You must use the same proxy as your browser proxy in order to view and download the content
 3. Follow steps to get cookies below 
 
-## Steps to get cookies
+## Steps to get cookies (Not needed anymore)
 
 1. Install this popular cookie manager extension: [Cookie Editor](https://chrome.google.com/webstore/detail/hlkenndednhfkekhgcdicdfddnkalmdm)
 2. Sign in to your onlyfans account
@@ -52,3 +58,6 @@ The app typically requires users to input the URL of the content they want to do
 
 ### Can I download media from paid subscription based onlyfans accounts?
 Yes, you can if you are subscribed to the account. You will need to share cookies to authenticate the downloader app on behalf of your onlyfans account
+
+### Can OnlyFans detect I have downloaded a video?
+No as long as you don't share the downloaded content and keep them for your personal use. 
