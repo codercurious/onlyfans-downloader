@@ -3,11 +3,11 @@
 [Onlyfans video downloader](https://onlyfansdownloader.co/) helps you to download videos and photos from your [onlyfans](https://onlyfans.com) account for free.
 
 ## Features
-1. Download from onlyfans posts
+### Download from onlyfans posts
 You can download content from any onlyfans post simply by entering onlyfans post link 
-2. Download media from onlyfans profile
+### Download media from onlyfans profile
 You can download media posted by any onlyfans profiles that you have subscribed to by providing link to the profile
-3. Download media from onlyfans messages or chat
+### Download media from onlyfans messages or chat
 You can download media sent to your inbox from any onlyfans model by providing link to the chat
 
 ![Onlyfans downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
